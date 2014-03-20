@@ -2,6 +2,7 @@ var graphite_url = "demo";  // enter your graphite url, e.g. http://your.graphit
 
 var dashboards = 
 [
+ 
   { "name": "Demo",  // give your dashboard a name (required!)
     "refresh": 5000,  // each dashboard has its own refresh interval (in ms)
     // add an (optional) dashboard description. description can be written in markdown / html.
